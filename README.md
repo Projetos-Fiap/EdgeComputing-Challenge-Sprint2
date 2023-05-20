@@ -18,6 +18,7 @@ Devido ao fato de o Tinkercad (site onde construímos o protótipo) não possuir
 
 ### Simulação do Protótipo
 [Link para o Tinkercad, montagem com um LCD I2C](https://www.tinkercad.com/things/iWG12Au9C4a?sharecode=7OuKyPT-MoJO6bdyMhFwCjKuZHhQZRjSGi-lMjVyCS4)
+
 [Link para o Tinkercad, montagem com um LCD Serial](https://www.tinkercad.com/things/7msyRJChKDJ?sharecode=PU4CeosgJpSXETlzYTIAJ6y6ewrCRuf7yqVo72o1oIs)
 
 ### Componentes utilizados
