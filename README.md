@@ -34,5 +34,5 @@ Devido ao fato de o Tinkercad (site onde construímos o protótipo) não possuir
 <li>Cabos Jumper</li>
 
 ### Imagem do circuito
-![Imagem]()
-![Imagem]()
+![Imagem](https://github.com/Projetos-Fiap/EdgeComputing-Challenge-Sprint2/blob/main/circuit_LCDi2c_potentiometer.png?raw=true)
+
