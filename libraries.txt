@@ -1,0 +1,10 @@
+Baixar as seguinte libraries a partir do Arduino IDE Library Manager:
+
+Wire #include <Wire.h>
+LiquidCrystal (para displays serial) #include <LiquidCrystal.h>
+LiquidCrystal I2C (para displays i2c) #include <LiquidCrystal_I2C.h>
+HX711 (conversor a/d)
+SSD1306 (para o meu display oled 128x32) #include <Adafruit_SSD1306.h>
+GFX (para o meu display oled 128x32) #include <Adafruit_GFX.h>
+SPI (para o meu display oled 128x32) #include <SPI.h>
+
